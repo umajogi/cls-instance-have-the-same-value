@@ -1,0 +1,1 @@
+# cls-instance-have-the-same-value
